@@ -1,0 +1,1 @@
+This is the task where i build a simple registration page and landing page using html, css and javascipt.
